@@ -1,1 +1,1 @@
-gitlab/gitlab-runner:alpine3.18-cdd8bde3
+mcr.microsoft.com/dotnet/sdk:9.0
