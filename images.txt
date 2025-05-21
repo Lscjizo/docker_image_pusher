@@ -1,2 +1,1 @@
-mysql:8.0.0
-redis:7.4.0
+gitlab/gitlab-runner:alpine3.18-cdd8bde3
